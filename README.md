@@ -67,7 +67,7 @@ To simulate the role of a Project Manager by planning a large-scale global virtu
 ## 🛠️ Tools & Platforms Used
 
 - **Microsoft Excel**
-- **Smartsheet / Gantt Tool**
+- **Google Sheet / Gantt Tool**
 - **Google Slides / PowerPoint**
 - **Excelerate LMS Platform**
 
